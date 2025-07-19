@@ -1,0 +1,8 @@
+machine:
+- name: TEST_MACHINE_VAR
+  value: test_machine_value
+  kind: String
+user:
+- name: TEST_USER_VAR
+  value: test_user_value
+  kind: String
